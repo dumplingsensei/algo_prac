@@ -1,2 +1,2 @@
-# algo_prac
-Learn algorithms and data structures
+### algo_prac
+*Learn algorithms and data structures*
