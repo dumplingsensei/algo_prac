@@ -1,2 +1,2 @@
 ### algo_prac
-*Learn algorithms and data structures*
+Notes from *DataCamp - Data structures and algorithms in Python*
